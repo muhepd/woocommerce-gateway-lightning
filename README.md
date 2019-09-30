@@ -20,6 +20,10 @@ Requires PHP >= 5.6 and the `php-curl` and `php-gd` extensions.
 
 The payment option should now be available in your checkout page.
 
+## Bitcoin ticker 
+
+Price and conversation rates is available thanks to a bitcoinaverage.com API (line 141 in Lnd_wrapper).
+
 ## License
 
 MIT
